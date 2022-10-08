@@ -8,3 +8,5 @@
 * Next.js + SWR: [NextJS-SWR-CRUD](https://github.com/Alexaltrex/NextJS-SWR-CRUD), [Demo](https://next-js-swr-crud.vercel.app/)
 
 * Apollo GraphQL + CRUD + Auth: [Apollo-GraphQL-CRUD-Auth](https://github.com/Alexaltrex/Apollo-GraphQL-CRUD-Auth), [Demo](https://alexaltrex.github.io/Apollo-GraphQL-CRUD-Auth/), [back-end](https://graphql-crud-auth.herokuapp.com/graphql)
+
+* Three.js + react-three-fiber + react-three/drei: [Threejs-Fiber-Drei](https://github.com/Alexaltrex/Threejs-Fiber-Drei), [Demo](https://alexaltrex.github.io/Threejs-Fiber-Drei/#/)
