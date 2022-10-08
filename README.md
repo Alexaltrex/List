@@ -10,3 +10,4 @@
 * Apollo GraphQL + CRUD + Auth: [Apollo-GraphQL-CRUD-Auth](https://github.com/Alexaltrex/Apollo-GraphQL-CRUD-Auth), [Demo](https://alexaltrex.github.io/Apollo-GraphQL-CRUD-Auth/), [back-end](https://graphql-crud-auth.herokuapp.com/graphql)
 
 * Three.js + react-three-fiber + react-three/drei: [Threejs-Fiber-Drei](https://github.com/Alexaltrex/Threejs-Fiber-Drei), [Demo](https://alexaltrex.github.io/Threejs-Fiber-Drei/#/)
+* Three.js + react-three-fiber + react-three/drei: [Sea-Battle](https://github.com/Alexaltrex/Sea-Battle), [Demo](https://alexaltrex.github.io/Sea-Battle/)
