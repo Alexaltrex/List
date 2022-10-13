@@ -11,4 +11,4 @@
 
 * Three.js + react-three-fiber + react-three/drei: [Threejs-Fiber-Drei](https://github.com/Alexaltrex/Threejs-Fiber-Drei), [Demo](https://alexaltrex.github.io/Threejs-Fiber-Drei/#/)
 * Three.js + react-three-fiber + react-three/drei: [Sea-Battle](https://github.com/Alexaltrex/Sea-Battle), [Demo](https://alexaltrex.github.io/Sea-Battle/)
-* Auth with google OAuth 2.0 [mern-google-oauth](https://github.com/Alexaltrex/mern-google-oauth), [Demo](https://alexaltrex.github.io/mern-google-oauth/) 
+* Auth with google OAuth 2.0: [mern-google-oauth](https://github.com/Alexaltrex/mern-google-oauth), [Demo](https://alexaltrex.github.io/mern-google-oauth/) 
