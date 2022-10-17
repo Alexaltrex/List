@@ -14,3 +14,4 @@
 * Auth with google OAuth 2.0: [mern-google-oauth](https://github.com/Alexaltrex/mern-google-oauth), [Demo](https://alexaltrex.github.io/mern-google-oauth/) 
 * Auth with session: [Auth-with-session](https://github.com/Alexaltrex/Auth-with-session)
 * Auth with session by Pasport.js + passport-local: [passport-local](https://github.com/Alexaltrex/passport-locale)
+* Auth with JWT by Pasport.js + passport-jwt: [passport-jwt](https://github.com/Alexaltrex/passport-jwt)
