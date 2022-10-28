@@ -15,7 +15,7 @@
 * Three.js + react-three-fiber + react-three/drei: [Sea-Battle](https://github.com/Alexaltrex/Sea-Battle), [Demo](https://alexaltrex.github.io/Sea-Battle/)
 
 * React Drag and Drop: [react-drag-and-drop](https://github.com/Alexaltrex/react-drag-and-drop), [Demo](https://alexaltrex.github.io/react-drag-and-drop)
-* andex map api: [react-yandex-maps](https://github.com/Alexaltrex/react-yandex-maps), [Demo](https://alexaltrex.github.io/react-yandex-maps/)
+* Yandex map api: [react-yandex-maps](https://github.com/Alexaltrex/react-yandex-maps), [Demo](https://alexaltrex.github.io/react-yandex-maps/)
 
 * Auth with google OAuth 2.0: [mern-google-oauth](https://github.com/Alexaltrex/mern-google-oauth), [Demo](https://alexaltrex.github.io/mern-google-oauth/) 
 * Auth with session: [Auth-with-session](https://github.com/Alexaltrex/Auth-with-session)
