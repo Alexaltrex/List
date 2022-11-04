@@ -4,10 +4,10 @@
 * React + React Query + Redux Toolkit: [GothicDB](https://github.com/Alexaltrex/GothicDB/tree/main), [Demo](https://alexaltrex.github.io/GothicDB/)
 * React + Redux Toolkit + Redux Toolkit Query + CRUD: [Rick-and-Morty-Redux-Toolkit](https://github.com/Alexaltrex/Rick-and-Morty-Redux-Toolkit), [Demo](https://alexaltrex.github.io/Rick-and-Morty-Redux-Toolkit/)
 * React + MobX + CRUD: [MobX-Typescript-CRUD](https://github.com/Alexaltrex/MobX-Typescript-CRUD), [Demo](https://alexaltrex.github.io/MobX-Typescript-CRUD/)
-
+## Next.js
 * Next.js + Redux Toolkit: [Rick-and-Morty-Next-JS](https://github.com/Alexaltrex/Rick-and-Morty-Next-JS), [Demo](https://rick-and-morty-next-js-eight.vercel.app/)
 * Next.js + SWR + CRUD: [NextJS-SWR-CRUD](https://github.com/Alexaltrex/NextJS-SWR-CRUD), [Demo](https://next-js-swr-crud.vercel.app/)
-
+## Apollo GraphQL
 * Apollo GraphQL + CRUD + Auth: [Apollo-GraphQL-CRUD-Auth](https://github.com/Alexaltrex/Apollo-GraphQL-CRUD-Auth), [Demo](https://alexaltrex.github.io/Apollo-GraphQL-CRUD-Auth/), [back-end](https://graphql-crud-auth.herokuapp.com/graphql)
 * Apollo GraphQL: [Gothic-Remake](https://github.com/Alexaltrex/Gothic-Remake/blob/main/README.md), [Demo](https://alexaltrex.github.io/Gothic-Remake/) 
 
