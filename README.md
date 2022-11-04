@@ -2,6 +2,8 @@
 ### Big Projects
 * [OldGzhatsk](https://github.com/Alexaltrex/OldGzhatsk), [Demo](https://alexaltrex.github.io/OldGzhatsk)
 * [Shop](https://github.com/Alexaltrex/shop), [Demo](https://alexaltrex.github.io/shop)
+* [Banner-creator](https://github.com/Alexaltrex/Banner-creator), [Demo](https://alexaltrex.github.io/Banner-creator)
+* [Social-network](https://github.com/Alexaltrex/Social-network), [Demo](https://alexaltrex.github.io/Social-network)
 
 ### State managements
 * React + Redux: [Rick-and-Morty-DB](https://github.com/Alexaltrex/Rick-and-Morty-DB), [Demo](https://alexaltrex.github.io/Rick-and-Morty-DB)
@@ -24,6 +26,7 @@
 * Pdf viewer: [pdf-viewer](https://github.com/Alexaltrex/pdf-viewer), [Demo](https://alexaltrex.github.io/pdf-viewer/)
 * Connect metamask: [Code](https://github.com/Alexaltrex/Connect-metamask), [Demo](http://alexaltrex.github.io/Connect-metamask) 
 * Game memory: [Code](https://github.com/Alexaltrex/Game-memory), [Demo](https://alexaltrex.github.io/Game-memory)
+* Load-on-scroll: [Code](https://github.com/Alexaltrex/Load-on-scroll), [Demo](https://alexaltrex.github.io/Load-on-scroll)
 ### Auth
 * Auth with google OAuth 2.0: [mern-google-oauth](https://github.com/Alexaltrex/mern-google-oauth), [Demo](https://alexaltrex.github.io/mern-google-oauth/) 
 * Auth with session: [Auth-with-session](https://github.com/Alexaltrex/Auth-with-session)
