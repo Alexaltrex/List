@@ -1,4 +1,8 @@
 # List
+### Big Projects
+* [OldGzhatsk](https://github.com/Alexaltrex/OldGzhatsk), [Demo](https://alexaltrex.github.io/OldGzhatsk)
+* [Shop](https://github.com/Alexaltrex/shop), [Demo](https://alexaltrex.github.io/shop)
+
 ### State managements
 * React + Redux: [Rick-and-Morty-DB](https://github.com/Alexaltrex/Rick-and-Morty-DB), [Demo](https://alexaltrex.github.io/Rick-and-Morty-DB)
 * React + React Query + Redux Toolkit + CRUD: [React-Query-and-CRUD](https://github.com/Alexaltrex/React-Query-and-CRUD/tree/main), [Demo](https://alexaltrex.github.io/React-Query-and-CRUD)
@@ -17,6 +21,7 @@
 ### Misc
 * React Drag and Drop: [react-drag-and-drop](https://github.com/Alexaltrex/react-drag-and-drop), [Demo](https://alexaltrex.github.io/react-drag-and-drop)
 * Yandex map api: [react-yandex-maps](https://github.com/Alexaltrex/react-yandex-maps), [Demo](https://alexaltrex.github.io/react-yandex-maps/)
+* pdf-viewer
 ### Auth
 * Auth with google OAuth 2.0: [mern-google-oauth](https://github.com/Alexaltrex/mern-google-oauth), [Demo](https://alexaltrex.github.io/mern-google-oauth/) 
 * Auth with session: [Auth-with-session](https://github.com/Alexaltrex/Auth-with-session)
