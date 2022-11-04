@@ -38,5 +38,5 @@
 * Birbx: [Demo](https://alexaltrex.github.io/Birbz/)
 * Squids-2.0: [Code](https://github.com/Alexaltrex/Squids-2.0), [Demo](https://alexaltrex.github.io/Squids-2.0/)
 * Copycash: [Code](https://github.com/Alexaltrex/copycash), [Demo](https://alexaltrex.github.io/copycash/)
-*
+* Barder-shop: [Demo](https://alexaltrex.github.io/barber-shop) 
 
