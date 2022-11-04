@@ -22,12 +22,15 @@
 * React Drag and Drop: [react-drag-and-drop](https://github.com/Alexaltrex/react-drag-and-drop), [Demo](https://alexaltrex.github.io/react-drag-and-drop)
 * Yandex map api: [react-yandex-maps](https://github.com/Alexaltrex/react-yandex-maps), [Demo](https://alexaltrex.github.io/react-yandex-maps/)
 * Pdf viewer: [pdf-viewer](https://github.com/Alexaltrex/pdf-viewer), [Demo](https://alexaltrex.github.io/pdf-viewer/)
+* Connect metamask: [Code](https://github.com/Alexaltrex/Connect-metamask), [Demo](http://alexaltrex.github.io/Connect-metamask) 
 ### Auth
 * Auth with google OAuth 2.0: [mern-google-oauth](https://github.com/Alexaltrex/mern-google-oauth), [Demo](https://alexaltrex.github.io/mern-google-oauth/) 
 * Auth with session: [Auth-with-session](https://github.com/Alexaltrex/Auth-with-session)
 * Auth with session by Pasport.js + passport-local: [passport-local](https://github.com/Alexaltrex/passport-locale)
 * Auth with JWT by Pasport.js + passport-jwt: [passport-jwt](https://github.com/Alexaltrex/passport-jwt), [Demo](https://alexaltrex.github.io/passport-jwt)
 ### Вёрстка
-* Crypto-Game: [cryptogame](https://github.com/Alexaltrex/cryptogame), [Demo](http://cryptogame-zeta.vercel.app/)
-* Spartan: [spartan](https://github.com/Alexaltrex/Spartan), [Demo](https://spartan-psi.vercel.app/)
-* Spartan 2: [spartan2](https://github.com/Alexaltrex/spartan2), [Demo](https://alexaltrex.github.io/spartan2/)
+* Crypto-Game: [Code](https://github.com/Alexaltrex/cryptogame), [Demo](http://cryptogame-zeta.vercel.app/)
+* Spartan: [Code](https://github.com/Alexaltrex/Spartan), [Demo](https://spartan-psi.vercel.app/)
+* Spartan2: [Code](https://github.com/Alexaltrex/spartan2), [Demo](https://alexaltrex.github.io/spartan2/)
+* Fusion-X: [Code](https://github.com/Alexaltrex/Fusion-X), [Demo](https://alexaltrex.github.io/Fusion-X/)
+* 
