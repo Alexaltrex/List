@@ -27,4 +27,5 @@
 * Auth with session: [Auth-with-session](https://github.com/Alexaltrex/Auth-with-session)
 * Auth with session by Pasport.js + passport-local: [passport-local](https://github.com/Alexaltrex/passport-locale)
 * Auth with JWT by Pasport.js + passport-jwt: [passport-jwt](https://github.com/Alexaltrex/passport-jwt), [Demo](https://alexaltrex.github.io/passport-jwt)
-
+### Вёрстка
+* Crypto-Game: [cryptogame](https://github.com/Alexaltrex/cryptogame), [Demo](http://cryptogame-zeta.vercel.app/)
