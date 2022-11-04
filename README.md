@@ -49,8 +49,7 @@
 * Warriors: [Code](https://github.com/Alexaltrex/warriors), [Demo](https://alexaltrex.github.io/warriors/)
 * Eimoland: [Code](https://github.com/Alexaltrex/eimoland), [Demo](https://alexaltrex.github.io/eimoland/)
 * Space-cash: [Code](https://github.com/Alexaltrex/space-cash), [Demo](https://alexaltrex.github.io/space-cash/)
-*  The-Cash-Cow-Farm: [Demo](https://alexaltrex.github.io/The-Cash-Cow-Farm/)
-*  
+*  The-Cash-Cow-Farm: [Demo](https://alexaltrex.github.io/The-Cash-Cow-Farm/)*  
 
 
 
