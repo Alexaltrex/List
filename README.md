@@ -29,4 +29,5 @@
 * Auth with JWT by Pasport.js + passport-jwt: [passport-jwt](https://github.com/Alexaltrex/passport-jwt), [Demo](https://alexaltrex.github.io/passport-jwt)
 ### Вёрстка
 * Crypto-Game: [cryptogame](https://github.com/Alexaltrex/cryptogame), [Demo](http://cryptogame-zeta.vercel.app/)
+* Spartan: [spartan](https://github.com/Alexaltrex/Spartan), [Demo](https://spartan-psi.vercel.app/)
 * Spartan 2: [spartan2](https://github.com/Alexaltrex/spartan2), [Demo](https://alexaltrex.github.io/spartan2/)
