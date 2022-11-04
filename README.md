@@ -33,4 +33,10 @@
 * Spartan: [Code](https://github.com/Alexaltrex/Spartan), [Demo](https://spartan-psi.vercel.app/)
 * Spartan2: [Code](https://github.com/Alexaltrex/spartan2), [Demo](https://alexaltrex.github.io/spartan2/)
 * Fusion-X: [Code](https://github.com/Alexaltrex/Fusion-X), [Demo](https://alexaltrex.github.io/Fusion-X/)
-* 
+* Cactus: [Code](https://github.com/Alexaltrex/Cactus), [Demo](https://alexaltrex.github.io/Cactus/)
+* Apollumia: [Code](https://github.com/Alexaltrex/Apollumia/tree/main), [Demo](https://alexaltrex.github.io/Apollumia/)
+* Birbx: [Demo](https://alexaltrex.github.io/Birbz/)
+* Squids-2.0: [Code](https://github.com/Alexaltrex/Squids-2.0), [Demo](https://alexaltrex.github.io/Squids-2.0/)
+* Copycash: [Code](https://github.com/Alexaltrex/copycash), [Demo](https://alexaltrex.github.io/copycash/)
+*
+
