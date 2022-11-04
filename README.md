@@ -23,6 +23,7 @@
 * Yandex map api: [react-yandex-maps](https://github.com/Alexaltrex/react-yandex-maps), [Demo](https://alexaltrex.github.io/react-yandex-maps/)
 * Pdf viewer: [pdf-viewer](https://github.com/Alexaltrex/pdf-viewer), [Demo](https://alexaltrex.github.io/pdf-viewer/)
 * Connect metamask: [Code](https://github.com/Alexaltrex/Connect-metamask), [Demo](http://alexaltrex.github.io/Connect-metamask) 
+* Game memory: [Code](https://github.com/Alexaltrex/Game-memory), [Demo](https://alexaltrex.github.io/Game-memory)
 ### Auth
 * Auth with google OAuth 2.0: [mern-google-oauth](https://github.com/Alexaltrex/mern-google-oauth), [Demo](https://alexaltrex.github.io/mern-google-oauth/) 
 * Auth with session: [Auth-with-session](https://github.com/Alexaltrex/Auth-with-session)
@@ -36,7 +37,17 @@
 * Cactus: [Code](https://github.com/Alexaltrex/Cactus), [Demo](https://alexaltrex.github.io/Cactus/)
 * Apollumia: [Code](https://github.com/Alexaltrex/Apollumia/tree/main), [Demo](https://alexaltrex.github.io/Apollumia/)
 * Birbx: [Demo](https://alexaltrex.github.io/Birbz/)
+* Squids: [Code](https://github.com/Alexaltrex/Squids), [Demo](https://alexaltrex.github.io/Squids/)
 * Squids-2.0: [Code](https://github.com/Alexaltrex/Squids-2.0), [Demo](https://alexaltrex.github.io/Squids-2.0/)
 * Copycash: [Code](https://github.com/Alexaltrex/copycash), [Demo](https://alexaltrex.github.io/copycash/)
 * Barder-shop: [Demo](https://alexaltrex.github.io/barber-shop) 
+* Penguins: [Code](https://github.com/Alexaltrex/penguins), [Demo](https://alexaltrex.github.io/penguins/)
+* Token-cm: [Code](https://github.com/Alexaltrex/token-cm), [Demo](https://alexaltrex.github.io/token-cm/)
+* Warriors: [Code](https://github.com/Alexaltrex/warriors), [Demo](https://alexaltrex.github.io/warriors/)
+* Eimoland: [Code](https://github.com/Alexaltrex/eimoland), [Demo](https://alexaltrex.github.io/eimoland/)
+* Space-cash: [Code](https://github.com/Alexaltrex/space-cash), [Demo](https://alexaltrex.github.io/space-cash/)
+*  The-Cash-Cow-Farm: [Demo](https://alexaltrex.github.io/The-Cash-Cow-Farm/)
+*  
+
+
 
