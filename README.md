@@ -1,9 +1,9 @@
 # List
 ### Big Projects
-* OldGzhatsk [Code](https://github.com/Alexaltrex/OldGzhatsk), [Demo](https://alexaltrex.github.io/OldGzhatsk)
-* Shop [Code](https://github.com/Alexaltrex/shop), [Demo](https://alexaltrex.github.io/shop)
-* Banner-creator [Code](https://github.com/Alexaltrex/Banner-creator), [Demo](https://alexaltrex.github.io/Banner-creator)
-* Social-network [Code](https://github.com/Alexaltrex/Social-network), [Demo](https://alexaltrex.github.io/Social-network)
+* OldGzhatsk: [Code](https://github.com/Alexaltrex/OldGzhatsk), [Demo](https://alexaltrex.github.io/OldGzhatsk)
+* Shop: [Code](https://github.com/Alexaltrex/shop), [Demo](https://alexaltrex.github.io/shop)
+* Banner-creator: [Code](https://github.com/Alexaltrex/Banner-creator), [Demo](https://alexaltrex.github.io/Banner-creator)
+* Social-network: [Code](https://github.com/Alexaltrex/Social-network), [Demo](https://alexaltrex.github.io/Social-network)
 
 ### State managements
 * React + Redux: [Rick-and-Morty-DB](https://github.com/Alexaltrex/Rick-and-Morty-DB), [Demo](https://alexaltrex.github.io/Rick-and-Morty-DB)
