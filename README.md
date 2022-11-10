@@ -15,7 +15,7 @@
 * Next.js + Redux Toolkit: [Rick-and-Morty-Next-JS](https://github.com/Alexaltrex/Rick-and-Morty-Next-JS), [Demo](https://rick-and-morty-next-js-eight.vercel.app/)
 * Next.js + SWR + CRUD: [NextJS-SWR-CRUD](https://github.com/Alexaltrex/NextJS-SWR-CRUD), [Demo](https://next-js-swr-crud.vercel.app/)
 ### Gatsby.js
-*  Rick and Morty Gatsby: [Code](https://github.com/Alexaltrex/rick-and-morty-gatsby), (Demo)[https://rickandmortygatsbymain.gatsbyjs.io/]
+*  Rick and Morty Gatsby: [Code](https://github.com/Alexaltrex/rick-and-morty-gatsby), [Demo](https://rickandmortygatsbymain.gatsbyjs.io)
 ### Apollo GraphQL
 * Apollo GraphQL + CRUD + Auth: [Apollo-GraphQL-CRUD-Auth](https://github.com/Alexaltrex/Apollo-GraphQL-CRUD-Auth), [Demo](https://alexaltrex.github.io/Apollo-GraphQL-CRUD-Auth/), [back-end](https://graphql-crud-auth.herokuapp.com/graphql)
 * Apollo GraphQL: [Gothic-Remake](https://github.com/Alexaltrex/Gothic-Remake/blob/main/README.md), [Demo](https://alexaltrex.github.io/Gothic-Remake/) 
