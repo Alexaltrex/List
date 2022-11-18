@@ -23,6 +23,7 @@
 * Three.js + react-three-fiber + react-three/drei: [Threejs-Fiber-Drei](https://github.com/Alexaltrex/Threejs-Fiber-Drei), [Demo](https://alexaltrex.github.io/Threejs-Fiber-Drei/#/)
 * Three.js + react-three-fiber + react-three/drei: [Sea-Battle](https://github.com/Alexaltrex/Sea-Battle), [Demo](https://alexaltrex.github.io/Sea-Battle/)
 ### Misc
+* Recharts: [covid-pro](https://github.com/Alexaltrex/covid-pro/blob/main/README.md), [Demo](https://alexaltrex.github.io/covid-pro/)
 * React Drag and Drop: [react-drag-and-drop](https://github.com/Alexaltrex/react-drag-and-drop), [Demo](https://alexaltrex.github.io/react-drag-and-drop)
 * Yandex map api: [react-yandex-maps](https://github.com/Alexaltrex/react-yandex-maps), [Demo](https://alexaltrex.github.io/react-yandex-maps/)
 * Pdf viewer: [pdf-viewer](https://github.com/Alexaltrex/pdf-viewer), [Demo](https://alexaltrex.github.io/pdf-viewer/)
