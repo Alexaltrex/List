@@ -28,7 +28,7 @@
 * React Drag and Drop: [react-drag-and-drop](https://github.com/Alexaltrex/react-drag-and-drop), [Demo](https://alexaltrex.github.io/react-drag-and-drop)
 * Yandex map api: [react-yandex-maps](https://github.com/Alexaltrex/react-yandex-maps), [Demo](https://alexaltrex.github.io/react-yandex-maps/)
 * Pdf viewer: [pdf-viewer](https://github.com/Alexaltrex/pdf-viewer), [Demo](https://alexaltrex.github.io/pdf-viewer/)
-* Connect metamask: [Code](https://github.com/Alexaltrex/Connect-metamask), [Demo](http://alexaltrex.github.io/Connect-metamask) 
+* Connect metamask: [Code](https://github.com/Alexaltrex/Connect-metamask/tree/main), [Demo](http://alexaltrex.github.io/Connect-metamask) 
 * Game memory: [Code](https://github.com/Alexaltrex/Game-memory), [Demo](https://alexaltrex.github.io/Game-memory)
 * Load-on-scroll: [Code](https://github.com/Alexaltrex/Load-on-scroll), [Demo](https://alexaltrex.github.io/Load-on-scroll)
 ### Auth
@@ -53,7 +53,7 @@
 * Warriors: [Code](https://github.com/Alexaltrex/warriors), [Demo](https://alexaltrex.github.io/warriors/)
 * Eimoland: [Code](https://github.com/Alexaltrex/eimoland), [Demo](https://alexaltrex.github.io/eimoland/)
 * Space-cash: [Code](https://github.com/Alexaltrex/space-cash), [Demo](https://alexaltrex.github.io/space-cash/)
-*  The-Cash-Cow-Farm: [Demo](https://alexaltrex.github.io/The-Cash-Cow-Farm/)  
+* The-Cash-Cow-Farm: [Demo](https://alexaltrex.github.io/The-Cash-Cow-Farm/)  
 
 
 
