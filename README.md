@@ -27,7 +27,7 @@
 * Three.js + react-three-fiber + react-three/drei: [Threejs-Fiber-Drei](https://github.com/Alexaltrex/Threejs-Fiber-Drei), [Demo](https://alexaltrex.github.io/Threejs-Fiber-Drei/#/)
 * Three.js + react-three-fiber + react-three/drei: [Sea-Battle](https://github.com/Alexaltrex/Sea-Battle), [Demo](https://alexaltrex.github.io/Sea-Battle/)
 
-### Crypto (Etereum, Solidity)
+### Crypto (Ethereum, Solidity)
 * Crypto-storage: [Code](https://github.com/Alexaltrex/crypto-storage/blob/main/README.md), [Demo](https://alexaltrex.github.io/crypto-storage)
 
 ### Misc
