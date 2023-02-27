@@ -28,7 +28,8 @@
 * Three.js + react-three-fiber + react-three/drei: [Sea-Battle](https://github.com/Alexaltrex/Sea-Battle), [Demo](https://alexaltrex.github.io/Sea-Battle/)
 
 ### Crypto (Ethereum, Solidity)
-* Crypto-storage: [Code](https://github.com/Alexaltrex/crypto-storage/blob/main/README.md), [Demo](https://alexaltrex.github.io/crypto-storage)
+* Crypto-storage: [Code](https://github.com/Alexaltrex/crypto-storage), [Demo](https://alexaltrex.github.io/crypto-storage)
+* Crypto-payments: [Code](https://github.com/Alexaltrex/crypto-payments), [Demo](https://alexaltrex.github.io/crypto-payments)
 
 ### Misc
 * Native canvas: [Covid](https://github.com/Alexaltrex/Covid), [Demo](https://alexaltrex.github.io/Covid)
