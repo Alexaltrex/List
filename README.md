@@ -30,6 +30,7 @@
 ### Crypto (Ethereum, Solidity)
 * Crypto-storage: [Code](https://github.com/Alexaltrex/crypto-storage), [Demo](https://alexaltrex.github.io/crypto-storage)
 * Crypto-payments: [Code](https://github.com/Alexaltrex/crypto-payments), [Demo](https://alexaltrex.github.io/crypto-payments)
+* ERC20 Shop: [Code](https://github.com/Alexaltrex/ERC20-Shop), [Demo](https://alexaltrex.github.io/ERC20-Shop/)
 
 ### Misc
 * Native canvas: [Covid](https://github.com/Alexaltrex/Covid), [Demo](https://alexaltrex.github.io/Covid)
