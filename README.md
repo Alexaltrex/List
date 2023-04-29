@@ -32,6 +32,7 @@
 * Crypto-payments: [Code](https://github.com/Alexaltrex/crypto-payments), [Demo](https://alexaltrex.github.io/crypto-payments)
 * ERC20 Shop: [Code](https://github.com/Alexaltrex/ERC20-Shop), [Demo](https://alexaltrex.github.io/ERC20-Shop/)
 * NFT Shop: [Front-end code](https://github.com/Alexaltrex/NFT-Shop), [Demo](https://alexaltrex.github.io/NFT-Shop), [Hardhat project](https://github.com/Alexaltrex/NFT-Shop-Hardhat)
+* NFT Creator: [Front-end code](https://github.com/Alexaltrex/NFT-Creator), [Demo](https://alexaltrex.github.io/NFT-Creator), [Hardhat project](https://github.com/Alexaltrex/NFT-Creator-Hardhat)
 
 ### Misc
 * Native canvas: [Covid](https://github.com/Alexaltrex/Covid), [Demo](https://alexaltrex.github.io/Covid)
