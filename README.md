@@ -33,6 +33,7 @@
 * ERC20 Shop: [Code](https://github.com/Alexaltrex/ERC20-Shop), [Demo](https://alexaltrex.github.io/ERC20-Shop/)
 * NFT Shop: [Front-end code](https://github.com/Alexaltrex/NFT-Shop), [Demo](https://alexaltrex.github.io/NFT-Shop), [Hardhat project](https://github.com/Alexaltrex/NFT-Shop-Hardhat)
 * NFT Creator: [Front-end code](https://github.com/Alexaltrex/NFT-Creator), [Demo](https://alexaltrex.github.io/NFT-Creator), [Hardhat project](https://github.com/Alexaltrex/NFT-Creator-Hardhat)
+* Shop777 (ERC777): [Front-end code](https://github.com/Alexaltrex/Shop777), [Demo](https://alexaltrex.github.io/Shop777), [Hardhat project](https://github.com/Alexaltrex/Shop777-Hardhat)
 
 ### Misc
 * Native canvas: [Covid](https://github.com/Alexaltrex/Covid), [Demo](https://alexaltrex.github.io/Covid)
