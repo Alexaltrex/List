@@ -37,6 +37,7 @@
 * Shop1155 (ERC1155): [Front-end code](https://github.com/Alexaltrex/Shop1155), [Demo](https://alexaltrex.github.io/Shop1155), [Hardhat project](https://github.com/Alexaltrex/Shop1155-Hardhat)
 
 ### Misc
+* Green Sock: [code](https://github.com/Alexaltrex/GreenSock), [Demo](https://alexaltrex.github.io/GreenSock/)
 * Native canvas: [Covid](https://github.com/Alexaltrex/Covid), [Demo](https://alexaltrex.github.io/Covid)
 * Recharts: [covid-pro](https://github.com/Alexaltrex/covid-pro/blob/main/README.md), [Demo](https://alexaltrex.github.io/covid-pro/)
 * React Drag and Drop: [react-drag-and-drop](https://github.com/Alexaltrex/react-drag-and-drop), [Demo](https://alexaltrex.github.io/react-drag-and-drop)
